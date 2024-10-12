@@ -9,7 +9,7 @@ import (
 	"github.com/ethereum/go-ethereum/crypto"
 )
 
-func main() {
+func wallets() {
 	// 1. Generate private key
 	privateKey, err := crypto.GenerateKey()
 	if err != nil {
