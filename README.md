@@ -1,1 +1,2 @@
-- go_start : interact with ethernum
+- go : interact with ethernum
+- mini_dexs : Uniswap-v1 ->VaraSwap following gear protocol
